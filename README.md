@@ -1,7 +1,8 @@
+<img src="./docs/gary.jpeg" width="120"> 
 # Stackspot Gary Mock Server
 The purpose of this plugin is to create an environment where the developer can test his front end or other backend programs without having to have the services running in the staging environment or locally. With gary plugin you can test your applications locally without the need for real services.
 
-![alt](docs/gary.jpeg)
+
 
 
 ## Requirements
@@ -92,9 +93,20 @@ File: initializer.json
 
     ]
 
+### 8) Use The Postman Collection to use Gary Mock Server
+
+[Download Example Postman Collection]("./../docs/Gary%20Mock%20Server.postman_collection.json")
+
+
+
+
+
+
+### Finally
 
 be happy!
 
 
+<img src="./docs/stick-ok.jpeg" width="200"> 
 
 

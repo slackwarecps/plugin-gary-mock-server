@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "dc9a5a2e-c5b0-4094-bb53-14f8dfaa4277",
+		"name": "Gary Mock Server",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3547752"
+	},
+	"item": [
+		{
+			"name": "Get Cores",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:1080/api/v1/cores",
+					"host": [
+						"localhost"
+					],
+					"port": "1080",
+					"path": [
+						"api",
+						"v1",
+						"cores"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Who is the Batman?",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:1080/api/v1/quem-eh-o-batman",
+					"host": [
+						"localhost"
+					],
+					"port": "1080",
+					"path": [
+						"api",
+						"v1",
+						"quem-eh-o-batman"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

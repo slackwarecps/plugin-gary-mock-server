@@ -1,6 +1,6 @@
-name: plugin-gary-mock
+name: plugin-gary-mock-server
 description: Adiciona uma pasta com um mock server para nao depender de servidores online
-display-name: plugin-gary-mock
+display-name: plugin-gary-mock-server
 picture: plugin.png
 category: backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility:
@@ -15,13 +15,3 @@ technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/
   - "Api"
 types:
   - app
-# inputs:
-#   - label: Login
-#     type: text
-#     name: login
-#   - label: Senha
-#     type: text
-#     name: senha   
-#   - label: String de conexao
-#     type: text
-#     name: string_conexao

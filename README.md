@@ -1,7 +1,10 @@
-# plugin-gary-mock-server
+# Gary Mock Server
 spotstack plugin-gary-mock-server
 
-#requirements
+![alt](docs/gary.jpeg)
+
+
+## Requirements
 
 #### 1)Install docker
 https://docs.docker.com/desktop/install/windows-install/
@@ -10,6 +13,7 @@ https://docs.docker.com/desktop/install/windows-install/
 
 #### 4) Install the stackspot
 
+https://stackspot.com/
 
 Go inside the stack project folder and type the command:
     

@@ -95,7 +95,7 @@ File: initializer.json
 
 ### 8) Use The Postman Collection to use Gary Mock Server
 
-[Download Example Postman Collection]("./../docs/Gary%20Mock%20Server.postman_collection.json")
+[Download Example Postman Collection]("./docs/Gary%20Mock%20Server.postman_collection.json")
 
 
 
